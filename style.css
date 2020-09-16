@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(37, 18, 18);
+    text-align: center;
+}
+
+canvas {
+    background-image: linear-gradient(rgb(0, 0, 0), rgb(41, 40, 104));
+    border: 1px solid grey;
+}
